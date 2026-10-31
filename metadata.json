@@ -1,0 +1,6 @@
+{
+  "name": "Brightloop Software — Subscription & Billing System",
+  "description": "Unified platform for subscription lifecycle, quotation templates, plans with variants, automated recurring billing batches, discount rules, payments, and real-time revenue analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
