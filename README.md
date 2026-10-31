@@ -2,7 +2,7 @@
 
 > Unified subscription platform to manage plans, quotes, automated recurring billing batches, configurable dunning schedules, discount rules, payments, customer self-service, and real-time revenue analytics.
 
-Built with **React 19**, **TypeScript**, **Tailwind CSS**, and **Vite**.
+Built with **React 19**, **TypeScript**, **Tailwind CSS**, and **Vite**..
 
 ---
 
