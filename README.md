@@ -55,7 +55,7 @@ Built with **React 19**, **TypeScript**, **Tailwind CSS**, and **Vite**..
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/brightloop-subscription-system.git
+git clone https:/ajinkya-x-ai/github.com//brightloop-subscription-system.git
 
 # Navigate to project folder
 cd brightloop-subscription-system
